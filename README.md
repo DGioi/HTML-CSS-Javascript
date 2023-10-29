@@ -9,15 +9,15 @@ Lecture 1 : What is HTML? : HTML (Hypertext Markup Languge) It is the standard m
 
 -Javascript:Behavior
 
-[**Lecture 1**](./site/index.html)Relevant History of HTML
+[**Lecture 2**](./site/index.html): Relevant History of HTML
 
 ... now HTML5 (W3C) w3.org/TR/html5
 
 caniuse.com,validator.w3.org, w3schools.com/browsers/browsers_stats.asp
  
 
-Lecture 3: Anatomy of an HTML Tag
+[**Lecture 3**](./site/lecture03.html): Anatomy of an HTML Tag
 
-Lecture 4 : Basic HTML Document Structure
+[**Lecture 4**](./site/lecture04.html) : Basic HTML Document Structure
 
-Lecture 5: HTML Content Models
+[**Lecture 5**](./site/lecture05.html): HTML Content Models

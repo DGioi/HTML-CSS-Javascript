@@ -1,0 +1,2 @@
+shilf+ alt+ f: format code
+ctrl + enter: nhập dòng mới
